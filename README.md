@@ -4,7 +4,7 @@
 
 This particular app takes basic concepts such as each blocks, mounting and fetching and puts them into use. This app is to serve as a contrast to building a similar app in REACT
 
-
+here is a demo of the website: https://public.gradygenethomas.now.sh/
 
 # svelte app
 
