@@ -2,6 +2,10 @@
 
 ---
 
+This particular app takes basic concepts such as each blocks, mounting and fetching and puts them into use. This app is to serve as a contrast to building a similar app in REACT
+
+
+
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
@@ -76,6 +80,7 @@ now deploy --name my-project
 ```
 
 As an alternative, use the [Now desktop client](https://zeit.co/download) and simply drag the unzipped project folder to the taskbar icon.
+
 
 ### With [surge](https://surge.sh/)
 
